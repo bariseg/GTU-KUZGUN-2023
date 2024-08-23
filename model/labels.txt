@@ -1,0 +1,3 @@
+0 no target
+1 insan
+2 asfalt
